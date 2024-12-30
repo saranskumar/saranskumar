@@ -22,5 +22,5 @@
 - 🐦 [Twitter]((https://www.twitter.com/SaranSKumar13 )  
 - 📧 Email: saranskumarwh@gmail.com
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithbiju&show_icons=true&locale=en&layout=compact" alt="amithbiju" /></p>
-![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,tailwind,python,arduino,figma)
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranskumar&show_icons=true&locale=en&layout=compact" alt="saranskumar" /></p>
+![Languages and Tools](https://skillicons.dev/icons?i=python,arduino,html,git,html,c,js)
