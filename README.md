@@ -18,7 +18,8 @@
 ### 📬 Let's Connect
 
 - 🌐 [Website](https://technophiler.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/mwlite/in/saran-s-kumar )  
+- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/mwlite/in/saran-s-kumar )
+- 📷 [Instagram](https://www.instagram.com/saraan.___ )
 - 📧 Email: saranskumarwh@gmail.com
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranskumar&show_icons=true&locale=en&layout=compact" alt="saranskumar" />
