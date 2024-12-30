@@ -3,8 +3,8 @@
 ### 🚀 About Me
 
 - 🌟 I'm a **multipotentialite** passionate about exploring the latest technologies and learning new skills.
-- 🎓 Currently pursuing **BTech** with a focus on **computer science** and **AI/ML** in Sree Chitra Thirunal College of Engineering.
-- 🛠️ Self-taught with interests in **robotics**, **design**, **photography**, and **editing**.
+- 🎓 Currently pursuing **BTech** with a focus on **Computer Science** and **AI/ML** in Sree Chitra Thirunal College of Engineering.
+- 🛠️ Self-taught with interests in **robotics**, **ai**, **coding**, and **editing**.
 - 💡 Open to collaborations and eager to share knowledge through open-source projects.
 
 
@@ -17,14 +17,10 @@
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio Website](https://technophiler.netlify.app/)  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/mwlite/in/saran-s-kumar))  
-- 🐦 [Twitter]([https://twitter.com/](https://www.twitter.com/SaranSKumar13))  
-- 📧 Email: saranskumarwh@gmail.com  
-### 📊 GitHub Stats
+- 🌐 [Website](https://technophiler.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/mwlite/in/saran-s-kumar )  
+- 🐦 [Twitter]((https://www.twitter.com/SaranSKumar13 )  
+- 📧 Email: saranskumarwh@gmail.com
 
-![Saran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saranskumar&show_icons=true&theme=radical)
-
----
-
-✨ *“Technology should inspire, enable, and solve problems for everyone.”* ✨
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithbiju&show_icons=true&locale=en&layout=compact" alt="amithbiju" /></p>
+![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,tailwind,python,arduino,figma)
