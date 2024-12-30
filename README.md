@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 - 🌟 I'm a **multipotentialite** passionate about exploring the latest technologies and learning new skills.
-- 🎓 Currently pursuing **BTech** with a focus on **Computer Science** and **AI/ML** in Sree Chitra Thirunal College of Engineering.
+- 🎓 Currently pursuing **BTech** with a focus on **Computer Science** and **AI/ML** in **Sree Chitra Thirunal College of Engineering**.
 - 🛠️ Self-taught with interests in **robotics**, **ai**, **coding**, and **editing**.
 - 💡 Open to collaborations and eager to share knowledge through open-source projects.
 
@@ -12,7 +12,7 @@
 
 - 🌐 **Gemini API Overview**
 - 🤖 Various **Arduino Projects**.
-- 🏠 **Google Home Clone**: A Python-based replica of Google Home devices.
+- 🏠 **Google Home Clone**: A Python-based replica of Google Home devices(Work In Progress).
 
 
 ### 📬 Let's Connect
@@ -22,4 +22,5 @@
 - 📧 Email: saranskumarwh@gmail.com
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranskumar&show_icons=true&locale=en&layout=compact" alt="saranskumar" />
+### 🛠️Languages and Tools
 ![Languages and Tools](https://skillicons.dev/icons?i=python,arduino,html,git,c,js)
