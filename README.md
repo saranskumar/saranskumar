@@ -19,8 +19,7 @@
 
 - 🌐 [Website](https://technophiler.netlify.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/mwlite/in/saran-s-kumar )  
-- 🐦 [Twitter]((https://www.twitter.com/SaranSKumar13 )  
 - 📧 Email: saranskumarwh@gmail.com
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranskumar&show_icons=true&locale=en&layout=compact" alt="saranskumar" /></p>
-![Languages and Tools](https://skillicons.dev/icons?i=python,arduino,html,git,html,c,js)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranskumar&show_icons=true&locale=en&layout=compact" alt="saranskumar" />
+![Languages and Tools](https://skillicons.dev/icons?i=python,arduino,html,git,c,js)
