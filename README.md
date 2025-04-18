@@ -23,5 +23,3 @@
 -  Email: saranskumarwh@gmail.com
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranskumar&show_icons=true&locale=en&layout=compact" alt="saranskumar" />
-### 🛠️Languages and Tools
-![Languages and Tools](https://skillicons.dev/icons?i=python,arduino,html,git,c,js)
