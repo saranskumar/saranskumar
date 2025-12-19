@@ -11,6 +11,32 @@ I’m a **B.Tech 2nd-year Computer Science student** at
 
 ---
 
+## 🌟 Highlights
+
+- 🧠 Strong foundation in **Computer Science fundamentals**
+- 🤖 Experience with **Arduino, ESP32, and embedded systems**
+- 🌐 Built **web & mobile applications** using modern stacks
+- 🔐 Explored **cybersecurity, automation, and system internals**
+- 🎯 Focused on **real-world, production-style projects**
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=saranskumar&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=saranskumar&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=saranskumar&theme=shadow_red&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saranskumar&theme=shadow_red&hide_border=false&layout=compact)
+
+---
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saraan.___)
@@ -61,22 +87,6 @@ I’m a **B.Tech 2nd-year Computer Science student** at
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=saranskumar&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=saranskumar&theme=shadow_red&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saranskumar&theme=shadow_red&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=saranskumar&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
