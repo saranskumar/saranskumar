@@ -21,11 +21,7 @@ I’m a **B.Tech 2nd-year Computer Science student** at
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=saranskumar&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 📊 GitHub Stats
 
