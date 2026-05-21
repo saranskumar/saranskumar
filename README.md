@@ -3,10 +3,9 @@
 Computer Science student focused on AI systems, automation, robotics, and modern web infrastructure.
 
 Building practical systems across software, embedded engineering, and developer tooling.
-## GitHub Stats
+## Contribution Graph
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saranskumar&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saranskumar&theme=github_dark) |
-|---|---|
+![snake gif](https://github.com/saranskumar/saranskumar/blob/output/github-snake-dark.svg)
 ## Systems
 
 ### Event Infrastructure Platform
