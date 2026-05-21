@@ -1,40 +1,28 @@
 # Saran S Kumar
 
-B.Tech Computer Science student specializing in AI & ML at  
-Sree Chitra Thirunal College of Engineering (SCTCE), Trivandrum.
+Computer Science student focused on AI systems, automation, robotics, and modern web infrastructure.
 
-I build systems across AI, automation, robotics, and web infrastructure, with a strong focus on practical engineering and real-world deployment.
+Building practical systems across software, embedded engineering, and developer tooling.
 
-Currently exploring:
-- AI/ML systems and agent workflows
-- Full-stack web platforms
-- Embedded systems and robotics
-- Cybersecurity and automation tooling
+## Systems
 
-## Selected Projects
+### Event Infrastructure Platform
+Role-based event management and verification platform with QR workflows, payment validation, analytics, and admin tooling.
 
-### Event Management & Verification System
-Role-based event platform with QR-based check-in, payment verification, registration workflows, and admin analytics.
+### AI & Automation Workflows
+AI-assisted systems integrating APIs, structured pipelines, scraping workflows, and automation tooling.
 
-### AI Automation Workflows
-Built AI-assisted tools and automation pipelines integrating APIs, scraping workflows, and structured processing systems.
+### Embedded & Robotics Experiments
+Projects involving Arduino, ESP32, sensors, motor control systems, and embedded automation.
 
-### Robotics & Embedded Experiments
-Worked with Arduino, ESP32, sensors, motor control systems, and embedded automation prototypes.
+### Full-Stack Applications
+Web and mobile applications built with React, Next.js, Flask, Supabase, and modern deployment platforms.
 
-## Tech Stack
+More projects → [saranskumar.live/systems](https://saranskumar.live/systems)
 
-**Languages**  
-Python, C, JavaScript, TypeScript, Bash
+## Stack
 
-**Frameworks & Tools**  
-React, Next.js, React Native, Flask, Node.js, TailwindCSS
-
-**Platforms & Infrastructure**  
-Supabase, Vercel, Firebase, GitHub
-
-**Hardware & Embedded**  
-Arduino, ESP32, Raspberry Pi
+Python • C • TypeScript • React • Next.js • Flask • Node.js • Supabase • TailwindCSS • Arduino • ESP32
 
 ## GitHub Stats
 
@@ -43,6 +31,6 @@ Arduino, ESP32, Raspberry Pi
 
 ## Links
 
-- LinkedIn: https://linkedin.com/in/saran-s-kumar
-- GitHub: https://github.com/saranskumar
-- Email: saranskumarwh@gmail.com
+- Website → https://saranskumar.live
+- LinkedIn → https://linkedin.com/in/saran-s-kumar
+- GitHub → https://github.com/saranskumar
