@@ -5,48 +5,53 @@ Computer Science student focused on AI systems, automation, robotics, and modern
 Building practical systems across software, embedded engineering, and developer tooling.
 
 ![snake gif](https://github.com/saranskumar/saranskumar/blob/output/github-snake-dark.svg)
-
 ## Systems
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
 ### Event Infrastructure
 - QR verification workflows  
-- Registration & payment pipelines  
+- Registration & payment systems  
 - Admin dashboards & analytics  
-- Role-based management systems  
+- Role-based management tooling  
+- Automated operational workflows  
 
 </td>
-<td width="50%">
+
+<td valign="top" width="50%">
 
 ### AI & Automation
 - AI-assisted workflows  
-- API integrations  
-- Structured processing systems  
+- API integration systems  
+- Structured processing pipelines  
 - Scraping & automation tooling  
+- Real-world automation use cases  
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
 ### Embedded & Robotics
-- Arduino & ESP32 systems  
+- Arduino & ESP32 platforms  
 - Sensor integration workflows  
-- Motor control & automation  
-- Embedded prototyping  
+- Motor control systems  
+- Embedded automation projects  
+- Robotics prototyping  
 
 </td>
-<td width="50%">
+
+<td valign="top" width="50%">
 
 ### Full-Stack Platforms
 - React & Next.js applications  
 - Flask & backend systems  
-- Supabase & cloud infrastructure  
-- Web and mobile platforms  
+- Supabase infrastructure  
+- Web & mobile platforms  
+- Deployment and cloud workflows  
 
 </td>
 </tr>
@@ -54,12 +59,11 @@ Building practical systems across software, embedded engineering, and developer 
 
 <br>
 
-<p align="left">
-  <a href="https://saranskumar.live/systems">
-    <img src="https://img.shields.io/badge/Explore%20More-Systems-black?style=for-the-badge" />
+<p align="center">
+  <a href="https://saranskumar.live/systems" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More%20Systems-saranskumar.live-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
-
 ## Stack
 
 Python • C • TypeScript • React • Next.js • Flask • Node.js • Supabase • TailwindCSS • Arduino • ESP32
