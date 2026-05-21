@@ -3,9 +3,9 @@
 Computer Science student focused on AI systems, automation, robotics, and modern web infrastructure.
 
 Building practical systems across software, embedded engineering, and developer tooling.
-## Contribution Graph
 
 ![snake gif](https://github.com/saranskumar/saranskumar/blob/output/github-snake-dark.svg)
+
 ## Systems
 
 ### Event Infrastructure Platform
