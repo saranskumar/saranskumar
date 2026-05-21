@@ -8,29 +8,49 @@ Building practical systems across software, embedded engineering, and developer 
 
 ## Systems
 
-### Event Infrastructure Systems
-- Scalable event management platforms  
-- QR verification and check-in workflows  
-- Payment tracking and registration pipelines  
-- Admin dashboards, analytics, and role-based tooling  
+<table>
+<tr>
+<td width="50%">
 
-### AI & Automation Systems
-- AI-assisted workflows and automation pipelines  
-- API integrations and structured processing systems  
-- Scraping workflows and automation tooling  
-- Practical systems built around real-world use cases  
+### Event Infrastructure
+- QR verification workflows  
+- Registration & payment pipelines  
+- Admin dashboards & analytics  
+- Role-based management systems  
 
-### Embedded & Robotics Systems
-- Arduino, ESP32, and embedded hardware projects  
-- Sensor integration and motor control systems  
-- Hardware automation and robotics workflows  
-- Rapid prototyping across embedded platforms  
+</td>
+<td width="50%">
+
+### AI & Automation
+- AI-assisted workflows  
+- API integrations  
+- Structured processing systems  
+- Scraping & automation tooling  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Embedded & Robotics
+- Arduino & ESP32 systems  
+- Sensor integration workflows  
+- Motor control & automation  
+- Embedded prototyping  
+
+</td>
+<td width="50%">
 
 ### Full-Stack Platforms
-- Modern web and mobile applications  
-- React, Next.js, Flask, Supabase, and cloud deployment  
-- Frontend systems, backend APIs, and scalable workflows  
-- Product-focused development and deployment pipelines  
+- React & Next.js applications  
+- Flask & backend systems  
+- Supabase & cloud infrastructure  
+- Web and mobile platforms  
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -39,6 +59,7 @@ Building practical systems across software, embedded engineering, and developer 
     <img src="https://img.shields.io/badge/Explore%20More-Systems-black?style=for-the-badge" />
   </a>
 </p>
+
 ## Stack
 
 Python • C • TypeScript • React • Next.js • Flask • Node.js • Supabase • TailwindCSS • Arduino • ESP32
