@@ -8,20 +8,37 @@ Building practical systems across software, embedded engineering, and developer 
 
 ## Systems
 
-### Event Infrastructure Platform
-Role-based event management and verification platform with QR workflows, payment validation, analytics, and admin tooling.
+### Event Infrastructure Systems
+- Scalable event management platforms  
+- QR verification and check-in workflows  
+- Payment tracking and registration pipelines  
+- Admin dashboards, analytics, and role-based tooling  
 
-### AI & Automation Workflows
-AI-assisted systems integrating APIs, structured pipelines, scraping workflows, and automation tooling.
+### AI & Automation Systems
+- AI-assisted workflows and automation pipelines  
+- API integrations and structured processing systems  
+- Scraping workflows and automation tooling  
+- Practical systems built around real-world use cases  
 
-### Embedded & Robotics Experiments
-Projects involving Arduino, ESP32, sensors, motor control systems, and embedded automation.
+### Embedded & Robotics Systems
+- Arduino, ESP32, and embedded hardware projects  
+- Sensor integration and motor control systems  
+- Hardware automation and robotics workflows  
+- Rapid prototyping across embedded platforms  
 
-### Full-Stack Applications
-Web and mobile applications built with React, Next.js, Flask, Supabase, and modern deployment platforms.
+### Full-Stack Platforms
+- Modern web and mobile applications  
+- React, Next.js, Flask, Supabase, and cloud deployment  
+- Frontend systems, backend APIs, and scalable workflows  
+- Product-focused development and deployment pipelines  
 
-More projects → [saranskumar.live/systems](https://saranskumar.live/systems)
+<br>
 
+<p align="left">
+  <a href="https://saranskumar.live/systems">
+    <img src="https://img.shields.io/badge/Explore%20More-Systems-black?style=for-the-badge" />
+  </a>
+</p>
 ## Stack
 
 Python • C • TypeScript • React • Next.js • Flask • Node.js • Supabase • TailwindCSS • Arduino • ESP32
