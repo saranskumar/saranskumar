@@ -3,7 +3,10 @@
 Computer Science student focused on AI systems, automation, robotics, and modern web infrastructure.
 
 Building practical systems across software, embedded engineering, and developer tooling.
+## GitHub Stats
 
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saranskumar&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saranskumar&theme=github_dark) |
+|---|---|
 ## Systems
 
 ### Event Infrastructure Platform
@@ -24,11 +27,10 @@ More projects → [saranskumar.live/systems](https://saranskumar.live/systems)
 
 Python • C • TypeScript • React • Next.js • Flask • Node.js • Supabase • TailwindCSS • Arduino • ESP32
 
-## GitHub Stats
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saranskumar&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saranskumar&theme=github_dark) |
-|---|---|
+## Activity
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=saranskumar&theme=github-dark&hide_border=true&area=true)
 ## Links
 
 - Website → https://saranskumar.live
